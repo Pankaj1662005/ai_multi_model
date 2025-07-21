@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140701158846",
+    "project_id": "emessage-portal",
+    "storage_bucket": "emessage-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140701158846:android:af39736ac46d7510957def",
+        "android_client_info": {
+          "package_name": "com.example.emessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-MqVY9aZrsiKCHOp008Rz5rpH6AHDX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
