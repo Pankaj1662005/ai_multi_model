@@ -3,9 +3,11 @@
 A cross-platform mobile application built with Flutter that integrates **four intelligent ML/NLP models**, each hosted on **Hugging Face Spaces** and accessible via **REST APIs**. The project combines cutting-edge deep learning, UI/UX design, and full-stack deployment into a unified system.
 
 ---
-📸 Screenshots
-https://i.postimg.cc/94TkXYcd/1.jpg
-https://i.postimg.cc/PpjRCvqB/2.jpg
+## 📸 Screenshots
+
+![Login Page](https://i.postimg.cc/94TkXYcd/1.jpg)
+![Quote Generator](https://i.postimg.cc/PpjRCvqB/2.jpg)
+
 
 ## 📲 Tech Stack
 
